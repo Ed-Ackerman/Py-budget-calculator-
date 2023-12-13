@@ -24,7 +24,7 @@ Py-budget-calculator is a command-line program that enables users to input their
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Py-budget-calculator.git
+    git clone https://github.com/Ed-Ackerman/Py-budget-calculator.git
     ```
 
 2. Navigate to the project directory:
